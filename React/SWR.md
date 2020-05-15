@@ -1,4 +1,4 @@
-#SWR
+# SWR
 
 Amazing hook for fetching data with React or NextJS.
 
