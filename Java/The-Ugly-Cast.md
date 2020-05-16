@@ -3,6 +3,8 @@
 Java does not allow array creation of a generic type. For example:
 
 ```
+public class GenericArray<Item>{
+
 private Item[] s;
 
 s = new Item[size];
