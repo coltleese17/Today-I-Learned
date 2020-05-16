@@ -19,4 +19,4 @@ Context: Useful for interpreters, demonstrating fundamental value of Stacks.
 
 ## Java Implementation
 
-![Alt text](./Dijkstras-Two-Stack-Java-Implementation.png)raw=true "Title")
+![Alt text](./Dijkstras-Two-Stack-Java-Implementation.png)
