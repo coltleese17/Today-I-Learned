@@ -21,3 +21,4 @@ and can use
 ``` 
 vim -o `fzf`
 ```
+to open the output of an interactive fzf search.
