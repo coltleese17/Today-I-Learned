@@ -16,4 +16,8 @@ can use * * to activate in command line such as:
 
 `cd src/**`
 
-and can use `vim -o \`fzf\``
+and can use 
+
+``` 
+vim -o `fzf`
+```
