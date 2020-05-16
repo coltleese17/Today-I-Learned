@@ -11,3 +11,9 @@ Running
 `history | FZF`
 
 will allow you to fuzzy search over command history
+
+can use * * to activate in command line such as:
+
+`cd src/**`
+
+and can use `vim -o \`fzf\``
