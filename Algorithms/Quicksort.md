@@ -1,8 +1,13 @@
 # Quicksort
 
+
+Quicksort can be used for selction i.e. given an array of N items, find a kth smallest item.
+quick select takes linear time on average. some how, is a variant of quicksort.
+
 Shuffle the array.
 Partionin
 Sort each piece recursively
+
 
 Partitioning Phase:
 * repeat until I and J pointers cross.
