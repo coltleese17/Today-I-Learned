@@ -24,5 +24,6 @@ exch(a,i,j)
 }
 
 exch(a,lo,j);
+return j;
 ```
 
