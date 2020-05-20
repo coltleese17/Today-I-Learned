@@ -27,3 +27,24 @@ exch(a,lo,j);
 return j;
 ```
 
+Sort Phase
+```
+static void sort(comp[] a)
+StdRandom.shuffle(a);
+sort(a,0,a.length-1)
+
+static void sort(comp[] a, int lo, int hi){
+if (hi <= lo) return;
+int j = partition(a, lo, hi);
+sort(a, lo, j-1);
+sort(a, j+1, h1);
+}
+
+
+Time complexity is (nlogn)
+it is not stable. can improve the sort by instead doing insertion sort for small cases. cutoff is roughly 10
+if hi <= lo + cutoff -1)
+{
+insertion.sort(a.lo.hi);
+return;
+}
