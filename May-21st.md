@@ -11,7 +11,7 @@ Practiced:
 * Re order list
 
 Tomorrow:
-* Re-Practice Two Sum
+* Re-Practice Two Sum, Two stack queue implentation
 * Solidify Kadanes, DNF, Valid Parentheses and Maximum Product Subarray, Merge K lists
 * Learn "Longest Substring Without Repeating Characters", 
 * Learn "Sliding Window Using Two Pointers"
