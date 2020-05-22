@@ -15,3 +15,4 @@ Tomorrow:
 * Solidify Kadanes, DNF, Valid Parentheses and Maximum Product Subarray, Merge K lists
 * Learn "Longest Substring Without Repeating Characters", 
 * Learn "Sliding Window Using Two Pointers"
+* Finish Week 4 part 1 vids.
