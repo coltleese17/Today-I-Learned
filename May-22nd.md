@@ -8,4 +8,4 @@
 * Learn "Prefix Sums"
 * Practice Longest Substring /Reverse String / merge k / valid palindrome;
 * Finish Week 4 part 1 vids.
-* Learn "Search in Rotated Subarray" / Palindromic Substrings / Longest Palindromic Substring  
+* Learn "Search in Rotated Subarray" / Palindromic Substrings / Longest Palindromic Substring / valid palindrome ii 
